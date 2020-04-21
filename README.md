@@ -1,0 +1,1 @@
+The RCI Training pages provide training materials on topics relevant to Research Computing and Imaging. You can read it here: https://rcitraining.github.io/ on our github web pages. If you are currently reading this you are viewing our github repository.
